@@ -1,6 +1,6 @@
 cask "vestige" do
-  version "0.4.1"
-  sha256 "abbd8e2477ce2a21cbe875d94f2b6511eba7a0a07ae1b438a2968c06105fef47"
+  version "0.5.0"
+  sha256 "21f328ef8122323c9ab42ca7d9205cdc4c73d775a5eecdcd996e966fd2b0d986"
 
   url "https://github.com/Blackphi6/vestige/releases/download/v#{version}/Vestige-#{version}-macos-arm64.zip"
   name "Vestige"
